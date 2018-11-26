@@ -1,2 +1,2 @@
-## About
+## Welcome to my-github pag
 I am a student in Information Science (Language Technology), taking courses on AI, machine learning and computational linguistics (Natural Language Processing, machine translation based on neural networks, and Image Processing). Currently I am working on a master's thesis in Computational Morphology using techniques from linguistics, machine learning and artificial intelligence.
